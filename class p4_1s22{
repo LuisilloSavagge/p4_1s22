@@ -1,0 +1,11 @@
+import java.util.Scanner;
+
+class p4_1s22{
+   public static void main(String[] args) {
+      Scanner teclado = new Scanner(System.in);
+      String temp1,temp2;
+      int num1, num2;
+      String resultado;
+      
+   }
+}
